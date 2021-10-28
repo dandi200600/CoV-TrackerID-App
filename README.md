@@ -10,3 +10,5 @@ command:
 `npm run dev` untuk menjalankan project dalam mode development.
 
 `npm run build` untuk menjalankan project dalam mode production.
+
+![Screenshot_84](https://user-images.githubusercontent.com/57336670/139342425-fa483ff7-75e7-4aac-8333-41df4d9f00dc.jpg)
